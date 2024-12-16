@@ -87,7 +87,7 @@ To set up and run the project:
 ### Key Files and Their Purposes
 
 1. **`contracts/BLS.sol`**:
-   - Implements cryptographic functionalities using Boneh-Lynn-Shacham (BLS) signatures.
+   - Implements cryptographic functionalities using BLS signatures.
    - Provides methods for verifying aggregated signatures, enabling efficient validation in decentralized systems.
    - Functions include:
      - Signature aggregation verification.
